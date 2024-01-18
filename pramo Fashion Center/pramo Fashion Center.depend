@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661574148 source:c:\users\pramod madhubhashana\desktop\pramo fashion center\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
